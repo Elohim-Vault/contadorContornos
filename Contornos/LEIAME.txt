@@ -1,0 +1,12 @@
+Contador de contornos feito com OpenCV e python.
+
+Para que você possa utilizar a aplicação você deve importar o OpenCV, já tem um "tutorial" no meu outro repositorio, é só ir lá 
+e ler o LEIAME
+
+Para usar é só baixar usar a imagem que eu disponibilizei no repositorio ou baixar uma imagem 
+e colocar o nome+extensão dentro das aspas da img.
+Ex: 
+img = cv2.imread('altereAqui.jpg/png/jpeg')
+
+
+Feito por: Gabriel Jeronimo.
